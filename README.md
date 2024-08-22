@@ -3,7 +3,7 @@ With this script, we send automated transactions in union bridge per 30 seconds
 
 #
 
-## This script is specifically designed for stress testing one of the top zk-interoperability protocols, and it serves no other purpose
+
 
 #
 
