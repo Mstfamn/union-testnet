@@ -1,7 +1,7 @@
 # Summary
 With this script, we send automated transactions in union bridge per 30 seconds
 
-#
+#stress testing purpose
 
 
 
